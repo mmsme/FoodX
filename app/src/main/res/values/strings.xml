@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Food App</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="user_name">Username</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="password">Password</string>
+    <string name="home">Home</string>
+    <string name="order">My Orders</string>
+    <string name="offers">Offers</string>
+    <string name="notification">Notification</string>
+    <string name="setting">Setting</string>
+    <string name="help">Help</string>
+    <string name="support">Support</string>
+    <string name="drawer_close">Close</string>
+    <string name="drawer_open">Open</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
